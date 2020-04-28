@@ -3,7 +3,9 @@
 
 # HackerRank coding challenges
 
-Purpose: By doing 30 days of code challenge, anticipate that it not only brings me a chance to sharpen my Java skill, but also expands my own interest in solving problems and help other programmers as well. This activity also helps me build up my resume . Let's code & have fun! 
+Purpose: 
+
+By doing 30 days of code challenge, anticipate that it not only brings me a chance to sharpen my Java skill, but also expands my own interest in solving problems and help other programmers as well. This activity also helps me build up my resume . Let's code & have fun! 
 
 # 30 Days of Code
 
