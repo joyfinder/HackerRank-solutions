@@ -27,3 +27,33 @@ By doing 30 days of code challenge, anticipate that it not only brings me a chan
 |  13  |Abstract Classes                      ||30|
 |  14  |Scope||30|
 |  15  |Linked List||30|
+
+
+# 10 Days of Statistics
+
+| Day |Challenge    | Solution | Points |
+|:---:|:-----------:|:-------:||:------:|
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
