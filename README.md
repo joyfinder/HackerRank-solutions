@@ -35,29 +35,30 @@ By doing 30 days of code challenge, anticipate that it not only brings me a chan
 
 | Day |      Challenge    | Solution | Points |
 |:---:|:------------------:|:--------:|:------:|
-|0|||30|
-|0|||30|
-|1|||30|
-|1|||30|
-|1|||30|
-|2|||10|
-|2|||10|
-|2|||10|
-|3|||10|
-|3|||10|
-|4|||30|
-|4|||30|
-|4|||30|
-|4|||30|
-|5|||30|
-|5|||30|
-|5|||30|
-|5|||30|
-|6|||30|
-|6|||30|
-|6|||30|
-|7|||30|
-|7|||30|
-|8|||30|
-|8|||30|
-|9|||30|
+|0|Day 0 Mean Median Mode||30|
+|0|Day 0 Weighted Mean||30|
+|1|Day 1 Interquartile Range||30|
+|1|Day 1 Quartiles||30|
+|1|Day 1 Standard Deviation||30|
+|2|Day 2 Basic Probability||10|
+|2|Day 2 More Dice||10|
+|2|Day 2 Compound Event Probability||10|
+|3|Day 3 Conditional Probability||10|
+|3|Day 3 Cards of the Same Suit||10|
+|3|Day 3 Drawing Marbles||10|
+|4|Day 4 Binomial Distribution I||30|
+|4|Day 4 Binomial Distribution II||30|
+|4|Day 4 Geometric Distribution I||30|
+|4|Day 4 Geometric Distribution II||30|
+|5|Poisson Distribution I||30|
+|5|Poisson Distribution II||30|
+|5|Normal Distribution I||30|
+|5|Normal Distribution II||30|
+|6|The Central Limit Theorem I||30|
+|6|The Central Limit Theorem II||30|
+|6|The Central Limit Theorem III||30|
+|7|Pearson Correlation Coefficient I||30|
+|7|Spearman's Rank Correlation Coefficient||30|
+|8|Least Square Regression Line||30|
+|8|Pearson Correlation Coefficient II||30|
+|9|Multiple Linear Regression||30|
