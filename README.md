@@ -12,7 +12,7 @@ By doing 30 days of code challenge, anticipate that it not only brings me a chan
 | Day |               Challenge              | Solution | Points |
 | --- |:------------------------------------:| :-------:|:-------:|
 |  0  |              Hello World             |[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/30%20Days%20of%20Code/Day%200%20Hello%20World/Solution.java)          |30|
-|  1  |              Data Types              |          |30|
+|  1  |              Data Types              |[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/30%20Days%20of%20Code/Day%201%20Data%20Types/Solution.java)          |30|
 |  2  |Operators                             |          |30|
 |  3  |introduction to Conditional Statements|          |30|
 |  4  |Class vs Instance                      |         |30|
