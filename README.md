@@ -18,7 +18,7 @@ By doing 30 days of code challenge, anticipate that it not only brings me a chan
 |  4  |Class vs Instance                      |[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/30%20Days%20of%20Code/Day%204%20Class%20vs%20Instance/Solution.java)         |30|
 |  5  |Loops                                  |[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/30%20Days%20of%20Code/Day%205%20Loops/Solution.java)|30|
 |  6  |Let's Review                           |[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/30%20Days%20of%20Code/Day%206%20Let's%20Review/Solution.java)|30|
-|  7  |Arrays                                 | |30|
+|  7  |Arrays                                 |[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/30%20Days%20of%20Code/Day%207%20Arrays/Solution.java) |30|
 |  8  |Dictionaries and Maps                  ||30|
 |  9  |Recursion 3                            ||30|
 |  10  |Binary Numbers                        ||30|
