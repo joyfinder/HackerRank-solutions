@@ -38,7 +38,7 @@ By doing 30 days of code challenge, anticipate that it not only brings me a chan
 | Day |      Challenge    | Solution | Points |
 |:---:|:------------------:|:--------:|:------:|
 |0|Day 0 Mean Median Mode|[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/10%20Days%20of%20Statistics/Day%200%20Mean%20Median%20Mode/Solution.java)|30|
-|0|Day 0 Weighted Mean||30|
+|0|Day 0 Weighted Mean|[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/10%20Days%20of%20Statistics/Day%200%20Weighted%20Mean/Solution.java)|30|
 |1|Day 1 Interquartile Range||30|
 |1|Day 1 Quartiles||30|
 |1|Day 1 Standard Deviation||30|
