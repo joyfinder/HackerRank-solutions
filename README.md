@@ -25,7 +25,7 @@ By doing 30 days of code challenge, anticipate that it not only brings me a chan
 |  11  |2D Arrays                             |[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/30%20Days%20of%20Code/Day%2011%202D%20Arrays/Solution.java)|30|
 |  12  |Inheritance                           |[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/30%20Days%20of%20Code/Day%2012%20Inheritance/Solution.java)|30|
 |  13  |Abstract Classes                      |[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/30%20Days%20of%20Code/Day%2013%20Abstract%20Classes/Solution.java)|30|
-|  14  |Scope||30|
+|  14  |Scope|[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/30%20Days%20of%20Code/Day%2014%20Scope/Solution.java)|30|
 |  15  |Linked List||30|
 
 
