@@ -23,7 +23,7 @@ By doing 30 days of code challenge, anticipate that it not only brings me a chan
 |  9  |Recursion 3                            |[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/30%20Days%20of%20Code/Day%209%20Recursion%203/Solution.java)|30|
 |  10  |Binary Numbers                        |[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/30%20Days%20of%20Code/Day%2010%20Binary%20Numbers/Solution.java)|30|
 |  11  |2D Arrays                             |[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/30%20Days%20of%20Code/Day%2011%202D%20Arrays/Solution.java)|30|
-|  12  |Inheritance                           ||30|
+|  12  |Inheritance                           |[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/30%20Days%20of%20Code/Day%2012%20Inheritance/Solution.java)|30|
 |  13  |Abstract Classes                      ||30|
 |  14  |Scope||30|
 |  15  |Linked List||30|
