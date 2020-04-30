@@ -28,6 +28,7 @@ By doing 30 days of code challenge, anticipate that it not only brings me a chan
 |  14  |Scope|[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/30%20Days%20of%20Code/Day%2014%20Scope/Solution.java)|30|
 |  15  |Linked List|[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/30%20Days%20of%20Code/Day%2015%20Linked%20List/Solution.java)|30|
 |16|Exceptions - String to Integer|[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/30%20Days%20of%20Code/Day%2016%20Exceptions%20-%20String%20to%20Integer/Solution.java)|30|
+|17|More Exceptions|[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/30%20Days%20of%20Code/Day%2017%20More%20Exceptions/Solution.java)|30|
 
 
 
