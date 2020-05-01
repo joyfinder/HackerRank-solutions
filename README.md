@@ -50,7 +50,7 @@ By doing 30 days of code challenge, anticipate that it not only brings me a chan
 |3|Day 3 Drawing Marbles||10|
 |4|Day 4 Binomial Distribution I|[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/10%20Days%20of%20Statistics/Day%204%20Binomial%20Distribution%20I/Solution.java)|30|
 |4|Day 4 Binomial Distribution II|[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/10%20Days%20of%20Statistics/Day%204%20Binomial%20Distribution%20II/Solution.java)|30|
-|4|Day 4 Geometric Distribution I||30|
+|4|Day 4 Geometric Distribution I|[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/10%20Days%20of%20Statistics/Day%204%20Geometric%20Distribution%20I/Solution.java)|30|
 |4|Day 4 Geometric Distribution II||30|
 |5|Poisson Distribution I||30|
 |5|Poisson Distribution II||30|
