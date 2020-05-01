@@ -40,8 +40,8 @@ By doing 30 days of code challenge, anticipate that it not only brings me a chan
 |0|Day 0 Mean Median Mode|[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/10%20Days%20of%20Statistics/Day%200%20Mean%20Median%20Mode/Solution.java)|30|
 |0|Day 0 Weighted Mean|[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/10%20Days%20of%20Statistics/Day%200%20Weighted%20Mean/Solution.java)|30|
 |1|Day 1 Interquartile Range|[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/10%20Days%20of%20Statistics/Day%201%20Interquartile%20Range/Solution.java)|30|
-|1|Day 1 Quartiles|[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/10%20Days%20of%20Statistics/Day%201%20Standard%20Deviation/Solution.java)|30|
-|1|Day 1 Standard Deviation||30|
+|1|Day 1 Quartiles|[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/10%20Days%20of%20Statistics/Day%201%20Quartiles/Solution.java)|30|
+|1|Day 1 Standard Deviation|[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/10%20Days%20of%20Statistics/Day%201%20Standard%20Deviation/Solution.java)|30|
 |2|Day 2 Basic Probability||10|
 |2|Day 2 More Dice||10|
 |2|Day 2 Compound Event Probability||10|
