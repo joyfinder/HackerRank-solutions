@@ -56,7 +56,7 @@ By doing 30 days of code challenge, anticipate that it not only brings me a chan
 |5|Poisson Distribution I|[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/10%20Days%20of%20Statistics/Day%205%20Poisson%20Distribution%20I/Solution.java)|30|
 |5|Poisson Distribution II|[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/10%20Days%20of%20Statistics/Day%205%20Poisson%20Distribution%20II/Solution.java)|30|
 |5|Normal Distribution I|[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/10%20Days%20of%20Statistics/Day%205%20Normal%20Distribution%20I/Solution.java)|30|
-|5|Normal Distribution II||30|
+|5|Normal Distribution II|[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/10%20Days%20of%20Statistics/Day%205%20Normal%20Distribution%20II/Solution.java)|30|
 |6|The Central Limit Theorem I||30|
 |6|The Central Limit Theorem II||30|
 |6|The Central Limit Theorem III||30|
