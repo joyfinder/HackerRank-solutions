@@ -17,20 +17,20 @@ By doing 30 days of code challenge, anticipate that it not only brings me a chan
 |  3  |[introduction to Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements/problem)|[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/30%20Days%20of%20Code/Day%203%20Intro%20to%20Conditional%20Statements/Solution.java)          |30|
 |  4  |[Class vs Instance](https://www.hackerrank.com/challenges/30-class-vs-instance/problem)                      |[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/30%20Days%20of%20Code/Day%204%20Class%20vs%20Instance/Solution.java)         |30|
 |  5  |[Loops](https://www.hackerrank.com/challenges/30-loops/problem)                                  |[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/30%20Days%20of%20Code/Day%205%20Loops/Solution.java)|30|
-|  6  |Let's Review                           |[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/30%20Days%20of%20Code/Day%206%20Let's%20Review/Solution.java)|30|
-|  7  |Arrays                                 |[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/30%20Days%20of%20Code/Day%207%20Arrays/Solution.java) |30|
-|  8  |Dictionaries and Maps                  |[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/30%20Days%20of%20Code/Day%208%20Dictionaries%20and%20Maps/Solution.java)|30|
-|  9  |Recursion 3                            |[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/30%20Days%20of%20Code/Day%209%20Recursion%203/Solution.java)|30|
-|  10  |Binary Numbers                        |[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/30%20Days%20of%20Code/Day%2010%20Binary%20Numbers/Solution.java)|30|
-|  11  |2D Arrays                             |[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/30%20Days%20of%20Code/Day%2011%202D%20Arrays/Solution.java)|30|
-|  12  |Inheritance                           |[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/30%20Days%20of%20Code/Day%2012%20Inheritance/Solution.java)|30|
-|  13  |Abstract Classes                      |[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/30%20Days%20of%20Code/Day%2013%20Abstract%20Classes/Solution.java)|30|
-|  14  |Scope|[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/30%20Days%20of%20Code/Day%2014%20Scope/Solution.java)|30|
-|  15  |Linked List|[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/30%20Days%20of%20Code/Day%2015%20Linked%20List/Solution.java)|30|
-|16|Exceptions - String to Integer|[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/30%20Days%20of%20Code/Day%2016%20Exceptions%20-%20String%20to%20Integer/Solution.java)|30|
-|17|More Exceptions|[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/30%20Days%20of%20Code/Day%2017%20More%20Exceptions/Solution.java)|30|
-|18|Queues and Stacks|[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/30%20Days%20of%20Code/Day%2018%20Queues%20and%20Stacks/Solution.java)|30|
-|19|Interfaces|[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/30%20Days%20of%20Code/Day%2019%20Interfaces/Solution.java)|30|
+|  6  |[Let's Review](https://www.hackerrank.com/challenges/30-review-loop/problem)                           |[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/30%20Days%20of%20Code/Day%206%20Let's%20Review/Solution.java)|30|
+|  7  |[Arrays]                                 |[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/30%20Days%20of%20Code/Day%207%20Arrays/Solution.java) |30|
+|  8  |[Dictionaries and Maps]                  |[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/30%20Days%20of%20Code/Day%208%20Dictionaries%20and%20Maps/Solution.java)|30|
+|  9  |]Recursion 3]                            |[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/30%20Days%20of%20Code/Day%209%20Recursion%203/Solution.java)|30|
+|  10  |[Binary Numbers]                        |[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/30%20Days%20of%20Code/Day%2010%20Binary%20Numbers/Solution.java)|30|
+|  11  |[2D Arrays]                             |[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/30%20Days%20of%20Code/Day%2011%202D%20Arrays/Solution.java)|30|
+|  12  |[Inheritance]                           |[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/30%20Days%20of%20Code/Day%2012%20Inheritance/Solution.java)|30|
+|  13  |]Abstract Classes]                      |[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/30%20Days%20of%20Code/Day%2013%20Abstract%20Classes/Solution.java)|30|
+|  14  |[Scope]|[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/30%20Days%20of%20Code/Day%2014%20Scope/Solution.java)|30|
+|  15  |[Linked List]|[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/30%20Days%20of%20Code/Day%2015%20Linked%20List/Solution.java)|30|
+|16|[Exceptions - String to Integer]|[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/30%20Days%20of%20Code/Day%2016%20Exceptions%20-%20String%20to%20Integer/Solution.java)|30|
+|17|[More Exceptions]|[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/30%20Days%20of%20Code/Day%2017%20More%20Exceptions/Solution.java)|30|
+|18|[Queues and Stacks]|[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/30%20Days%20of%20Code/Day%2018%20Queues%20and%20Stacks/Solution.java)|30|
+|19|[Interfaces]|[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/30%20Days%20of%20Code/Day%2019%20Interfaces/Solution.java)|30|
 
 
 # 10 Days of Statistics
