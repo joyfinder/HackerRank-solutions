@@ -65,4 +65,4 @@ By doing 30 days of code challenge, anticipate that it not only brings me a chan
 |7|Spearman's Rank Correlation Coefficient|[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/10%20Days%20of%20Statistics/Day%207%20Spearman's%20Rank%20Correlation%20Coefficient/Solution.java)|30|
 |8|Least Square Regression Line|[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/10%20Days%20of%20Statistics/Day%208%20Least%20Square%20Regression%20Line/Solution.java)|30|
 |8|Pearson Correlation Coefficient II||30|
-|9|Multiple Linear Regression||30|
+|9|Multiple Linear Regression|[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/10%20Days%20of%20Statistics/Day%209%20Multiple%20Linear%20Regression/Solution.java)|30|
