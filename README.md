@@ -63,6 +63,6 @@ By doing 30 days of code challenge, anticipate that it not only brings me a chan
 |6|The Central Limit Theorem III|[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/10%20Days%20of%20Statistics/Day%206%20The%20Central%20Limit%20Theorem%20III/Solution.java)|30|
 |7|Pearson Correlation Coefficient I|[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/10%20Days%20of%20Statistics/Day%207%20Pearson%20Correlation%20Coefficient%20I/Solution.java)|30|
 |7|Spearman's Rank Correlation Coefficient|[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/10%20Days%20of%20Statistics/Day%207%20Spearman's%20Rank%20Correlation%20Coefficient/Solution.java)|30|
-|8|Least Square Regression Line||30|
+|8|Least Square Regression Line|[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/10%20Days%20of%20Statistics/Day%208%20Least%20Square%20Regression%20Line/Solution.java)|30|
 |8|Pearson Correlation Coefficient II||30|
 |9|Multiple Linear Regression||30|
