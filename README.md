@@ -60,7 +60,7 @@ By doing 30 days of code challenge, anticipate that it not only brings me a chan
 |5|Normal Distribution II|[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/10%20Days%20of%20Statistics/Day%205%20Normal%20Distribution%20II/Solution.java)|30|
 |6|The Central Limit Theorem I|[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/10%20Days%20of%20Statistics/Day%206%20The%20Central%20Limit%20Theorem%20I/Solution.java)|30|
 |6|The Central Limit Theorem II|[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/10%20Days%20of%20Statistics/Day%206%20The%20Central%20Limit%20Theorem%20II/Solution.java)|30|
-|6|The Central Limit Theorem III||30|
+|6|The Central Limit Theorem III|[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/10%20Days%20of%20Statistics/Day%206%20The%20Central%20Limit%20Theorem%20III/Solution.java)|30|
 |7|Pearson Correlation Coefficient I||30|
 |7|Spearman's Rank Correlation Coefficient||30|
 |8|Least Square Regression Line||30|
