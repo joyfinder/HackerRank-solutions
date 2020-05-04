@@ -32,6 +32,7 @@ By doing 30 days of code challenge, anticipate that it not only brings me a chan
 |18|[Queues and Stacks](https://www.hackerrank.com/challenges/30-queues-stacks/problem)|[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/30%20Days%20of%20Code/Day%2018%20Queues%20and%20Stacks/Solution.java)|30|
 |19|[Interfaces](https://www.hackerrank.com/challenges/30-interfaces/problem)|[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/30%20Days%20of%20Code/Day%2019%20Interfaces/Solution.java)|30|
 |20|[Sorting](https://www.hackerrank.com/challenges/30-sorting/problem)|[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/30%20Days%20of%20Code/Day%2020%20Sorting/Solution.java)|30|
+|21|[Generics](https://www.hackerrank.com/challenges/30-generics/problem)|[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/30%20Days%20of%20Code/Day%2021%20Generics/Solution.java)|30|
 
 
 # 10 Days of Statistics
