@@ -36,6 +36,7 @@ By doing 30 days of code challenge, anticipate that it not only brings me a chan
 |22|[Binary Search Trees](https://www.hackerrank.com/challenges/30-binary-search-trees/problem)|[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/30%20Days%20of%20Code/Day%2022%20Binary%20Search%20Tree/Solution.java)|30|
 |23|[BST Level-Order Traversal](https://www.hackerrank.com/challenges/30-binary-trees/problem)|[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/30%20Days%20of%20Code/Day%2023%20BST%20Level-Order%20Traversal/Solution.java)|30|
 |24|[More Linked Lists](https://www.hackerrank.com/challenges/30-linked-list-deletion/problem)|[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/30%20Days%20of%20Code/Day%2024%20More%20Linked%20Lists/Solution.java)|30|
+|25|[Running Time and Complexity](https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem)|[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/30%20Days%20of%20Code/Day%2025%20Running%20Time%20and%20Complexity/Solution.java)|30|
 
 
 # 10 Days of Statistics
