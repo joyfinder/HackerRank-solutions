@@ -38,6 +38,7 @@ By doing 30 days of code challenge, anticipate that it not only brings me a chan
 |24|[More Linked Lists](https://www.hackerrank.com/challenges/30-linked-list-deletion/problem)|[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/30%20Days%20of%20Code/Day%2024%20More%20Linked%20Lists/Solution.java)|30|
 |25|[Running Time and Complexity](https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem)|[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/30%20Days%20of%20Code/Day%2025%20Running%20Time%20and%20Complexity/Solution.java)|30|
 |26|[Nested Logic](https://www.hackerrank.com/challenges/30-nested-logic/problem)|[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/30%20Days%20of%20Code/Day%2026%20Nested%20Logic/Solution.java)|30|
+|27|[Testing](https://www.hackerrank.com/challenges/30-testing/problem)|[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/30%20Days%20of%20Code/Day%2027%20Testing/Solution.java)|30|
 
 
 # 10 Days of Statistics
