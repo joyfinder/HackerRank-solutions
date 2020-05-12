@@ -78,8 +78,9 @@ By doing 30 days of code challenge, anticipate that it not only brings me a chan
 
 
 
-# Database SQL
+# SQL
 
 | Category |      Challenge    | Solution | Points |
 |:---:|:------------------:|:--------:|:------:|
-|Basic Select|[Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem)|[Revising the Select Query I](https://github.com/joyfinder/HackerRank-solutions/blob/master/SQL/Revising%20the%20Select%20Query%20I/Revising%20the%20Select%20Query%20I.sql)|30|
+|Basic Select|[Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem)|[Revising the Select Query I](https://github.com/joyfinder/HackerRank-solutions/blob/master/SQL/Revising%20the%20Select%20Query%20I/Revising%20the%20Select%20Query%20I.sql)|10|
+|Basic Select|[Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem)|[Revising the Select Query II](https://github.com/joyfinder/HackerRank-solutions/blob/master/SQL/Revising%20the%20Select%20Query%20II/Revising%20the%20Select%20Query%20II.sql)|10|
