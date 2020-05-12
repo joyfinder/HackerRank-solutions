@@ -75,3 +75,11 @@ By doing 30 days of code challenge, anticipate that it not only brings me a chan
 |8|Least Square Regression Line|[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/10%20Days%20of%20Statistics/Day%208%20Least%20Square%20Regression%20Line/Solution.java)|30|
 |8|Pearson Correlation Coefficient II||30|
 |9|Multiple Linear Regression|[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/10%20Days%20of%20Statistics/Day%209%20Multiple%20Linear%20Regression/Solution.java)|30|
+
+
+
+# Database SQL
+
+| Category |      Challenge    | Solution | Points |
+|:---:|:------------------:|:--------:|:------:|
+|Basic Select|[Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem)|[Revising the Select Query I](https://github.com/joyfinder/HackerRank-solutions/blob/master/SQL/Revising%20the%20Select%20Query%20I/Revising%20the%20Select%20Query%20I.sql)|30|
