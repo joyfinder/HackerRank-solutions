@@ -40,6 +40,7 @@ By doing 30 days of code challenge, anticipate that it not only brings me a chan
 |26|[Nested Logic](https://www.hackerrank.com/challenges/30-nested-logic/problem)|[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/30%20Days%20of%20Code/Day%2026%20Nested%20Logic/Solution.java)|30|
 |27|[Testing](https://www.hackerrank.com/challenges/30-testing/problem)|[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/30%20Days%20of%20Code/Day%2027%20Testing/Solution.java)|30|
 |28|[RegEx, Patterns and Intro to Databases](https://www.hackerrank.com/challenges/30-regex-patterns/problem)|[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/30%20Days%20of%20Code/Day%2028%20RegEx%2C%20Patterns%20%26%20Intro%20to%20Databases/Solution.java)|30|
+|29|[BitWise AND](https://www.hackerrank.com/challenges/30-bitwise-and/problem)|[Solution.java](https://github.com/joyfinder/HackerRank-solutions/blob/master/30%20Days%20of%20Code/Day%2029%20Bitwise%20AND/Solution.java)|30|
 
 
 # 10 Days of Statistics
