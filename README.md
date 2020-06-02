@@ -113,4 +113,5 @@ By doing 30 days of code challenge, anticipate that it not only brings me a chan
 |Advanced Select|[Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem)|[Type of Triangle](https://github.com/joyfinder/HackerRank-solutions/blob/master/SQL/Type%20of%20Triangle/Type%20of%20Triangle.sql)|20|
 |Advanced Select|[The PADS](https://www.hackerrank.com/challenges/the-pads/problem)|[The PADS](https://github.com/joyfinder/HackerRank-solutions/blob/master/SQL/The%20PADS/The%20PADS.sql)|30|
 |Advanced Select|[Occupations](https://www.hackerrank.com/challenges/occupations/problem)|[Occupations](https://github.com/joyfinder/HackerRank-solutions/blob/master/SQL/Occupations/Occupations.sql)|30|
+|Basic Join|[Asian Population](https://www.hackerrank.com/challenges/asian-population/problem)|[Asian Population](https://github.com/joyfinder/HackerRank-solutions/blob/master/SQL/Asian%20Population/Asian%20Population.sql)|10|
 |Basic Join|[The Report](https://www.hackerrank.com/challenges/the-report/problem)|[The Report](https://github.com/joyfinder/HackerRank-solutions/blob/master/SQL/The%20Report/The%20Report.sql)|20|
