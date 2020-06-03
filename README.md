@@ -115,3 +115,4 @@ By doing 30 days of code challenge, anticipate that it not only brings me a chan
 |Advanced Select|[Occupations](https://www.hackerrank.com/challenges/occupations/problem)|[Occupations](https://github.com/joyfinder/HackerRank-solutions/blob/master/SQL/Occupations/Occupations.sql)|30|
 |Basic Join|[Asian Population](https://www.hackerrank.com/challenges/asian-population/problem)|[Asian Population](https://github.com/joyfinder/HackerRank-solutions/blob/master/SQL/Asian%20Population/Asian%20Population.sql)|10|
 |Basic Join|[The Report](https://www.hackerrank.com/challenges/the-report/problem)|[The Report](https://github.com/joyfinder/HackerRank-solutions/blob/master/SQL/The%20Report/The%20Report.sql)|20|
+|Basic Join|[Challenges](https://www.hackerrank.com/challenges/challenges/problem)|[Challenges](https://github.com/joyfinder/HackerRank-solutions/blob/master/SQL/Challenges/Challenges.sql)|30|
