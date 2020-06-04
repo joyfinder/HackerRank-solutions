@@ -114,5 +114,8 @@ By doing 30 days of code challenge, anticipate that it not only brings me a chan
 |Advanced Select|[The PADS](https://www.hackerrank.com/challenges/the-pads/problem)|[The PADS](https://github.com/joyfinder/HackerRank-solutions/blob/master/SQL/The%20PADS/The%20PADS.sql)|30|
 |Advanced Select|[Occupations](https://www.hackerrank.com/challenges/occupations/problem)|[Occupations](https://github.com/joyfinder/HackerRank-solutions/blob/master/SQL/Occupations/Occupations.sql)|30|
 |Basic Join|[Asian Population](https://www.hackerrank.com/challenges/asian-population/problem)|[Asian Population](https://github.com/joyfinder/HackerRank-solutions/blob/master/SQL/Asian%20Population/Asian%20Population.sql)|10|
+|Basic Join|[African Cities](https://www.hackerrank.com/challenges/african-cities)|[African Cities](https://github.com/joyfinder/HackerRank-solutions/blob/master/SQL/African%20Cities/African%20Cities.sql)|10|
+|Basic Join|[Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent)|[Average Population of Each Continent](https://github.com/joyfinder/HackerRank-solutions/blob/master/SQL/Average%20Population%20of%20Each%20Continent/Average%20Population%20of%20Each%20Continent.sql)|10|
 |Basic Join|[The Report](https://www.hackerrank.com/challenges/the-report/problem)|[The Report](https://github.com/joyfinder/HackerRank-solutions/blob/master/SQL/The%20Report/The%20Report.sql)|20|
 |Basic Join|[Challenges](https://www.hackerrank.com/challenges/challenges/problem)|[Challenges](https://github.com/joyfinder/HackerRank-solutions/blob/master/SQL/Challenges/Challenges.sql)|30|
+|Basic Join|[]|||
