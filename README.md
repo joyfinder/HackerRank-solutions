@@ -123,4 +123,6 @@ By doing 30 days of code challenge, anticipate that it not only brings me a chan
 |Basic Join|[The Report](https://www.hackerrank.com/challenges/the-report/problem)|[The Report](https://github.com/joyfinder/HackerRank-solutions/blob/master/SQL/The%20Report/The%20Report.sql)|20|
 |Basic Join|[Top Competitors](https://www.hackerrank.com/challenges/full-score)|[Top Competitors](https://github.com/joyfinder/HackerRank-solutions/blob/master/SQL/Top%20Competitors/Top%20Competitors.sql)|30|
 |Basic Join|[Challenges](https://www.hackerrank.com/challenges/challenges/problem)|[Challenges](https://github.com/joyfinder/HackerRank-solutions/blob/master/SQL/Challenges/Challenges.sql)|30|
+|Alternative Queries|[Draw The Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1)|[Draw The Triangle 1](https://github.com/joyfinder/HackerRank-solutions/blob/master/SQL/Draw%20The%20Triangle%201/Draw%20The%20Triangle%201.sql)|25|
+|Alternative Queries|[Draw The Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2/problem)|[Draw The Triangle 2](https://github.com/joyfinder/HackerRank-solutions/blob/master/SQL/Draw%20The%20Triangle%202/Draw%20The%20Triangle%202.sql)|25|
 
